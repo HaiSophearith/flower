@@ -1,7 +1,7 @@
 # Flower Repository
 Welcome to the Flower repository! This collection includes illustrative examples and tutorials focused on web technologies such as HTML, SCSS, and JS.
 
-### Download Source code from Github
+## Download Source code from Github
 To obtain the source code, use the following Git command: 
 
 ```
